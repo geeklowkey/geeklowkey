@@ -1,16 +1,54 @@
-## Hi there 👋
 
-<!--
-**geeklowkey/geeklowkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="width: 100%; height: 75%; overflow: hidden; position: relative;">
+  <img src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv"
+       style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+</div>
+         
+<h1 align="left">Hello, World!   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="40"
+         width="40" /></h1>
 
-Here are some ideas to get you started:
+  - 🌟 I’m a SWE currently working in **AI/MLOps** and **RAG/LLMs** integration to organizations 
+  - 📱 I also develop **Android / iOS** apps with **Flutter** 
+  - 😎 Fun fact: I love **Photography** 
+  - 🔗 Connect with Me on 👇 
+<p>
+  <a href="mailto:thegeeklowkey@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/geeklowkey"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/GeekLowkey"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="center">
+  My Tech Stack
+</h3>
+ 
+<p align=center>
+  <img alt="Julia" src="https://img.shields.io/badge/-Julia-BA55D3?style=for-the-badge&logo=julia&logoColor=white" />
+  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-DD0031?style=for-the-badge&logo=rust&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-DC143C?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-E10098?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img alt="bash" src="https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="scipy" src="https://img.shields.io/badge/-SciPy-0A9EDC?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img alt="numpy" src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-4B0082?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+
+  <img alt="Vim" src="https://img.shields.io/badge/-Vim-228B22?style=for-the-badge&logo=vim&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-F05032?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-010101?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
