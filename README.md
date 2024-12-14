@@ -9,7 +9,7 @@
          height="40"
          width="40" /></h1>
 
-<h3 align="left">🔗 Connect with me 👇</h3> 
+<h3 align="left">🔗 Connect With Me 👇</h3> 
 
 <p>
   <a href="mailto:thegeeklowkey@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
